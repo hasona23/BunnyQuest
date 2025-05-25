@@ -28,7 +28,9 @@ internal class World
         bullet.OnDisable += () => Particles.Add(new Entity(bullet.Pos).
             AddComponent(new ExplosionParticles(Color.MonoGameOrange, _particleSpeed, _particleCount)));
         Bullets.Add(bullet);
+        AssetManager.Sounds["Shoot"].Pitch = _rand.NextSingle() - .5f;
 
+        AssetManager.Sounds["Shoot"].Play();
     }
     public World(string map)
     {
@@ -99,7 +101,12 @@ internal class World
                 particleColor = Color.Yellow;
             if (obj.Id == 53)
                 particleColor = Color.DarkCyan;
-            enemy.OnDisable += () => Particles.Add(new Entity(enemy.Pos).AddComponent(new ExplosionParticles(particleColor, _particleSpeed, _particleCount)));
+            enemy.OnDisable += () =>
+            {
+                Particles.Add(new Entity(enemy.Pos).AddComponent(new ExplosionParticles(particleColor, _particleSpeed, _particleCount)));
+                AssetManager.Sounds["Explode"].Pitch = _rand.NextSingle() - .5f;
+                AssetManager.Sounds["Explode"].Play();
+            };
 
         }
         foreach (var obj in Map.Items())
@@ -115,6 +122,8 @@ internal class World
                             .AddAnimation("Jump", false, 41).AddAnimation("Shoot", true, 40, 42);
                         entity.AddComponent(new Gun(AddNewBullet, Map.Enemies().Length + 1));
                         Particles.Add(new Entity(item.Pos).AddComponent(new ExplosionParticles(Color.OrangeRed, _particleSpeed, _particleCount)));
+                        AssetManager.Sounds["PowerUp"].Pitch = _rand.NextSingle() - .5f;
+                        AssetManager.Sounds["PowerUp"].Play();
                     }
             ;
             Items.Add(item);

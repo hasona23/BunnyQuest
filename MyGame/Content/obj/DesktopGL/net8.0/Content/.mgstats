@@ -1,4 +1,8 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
 "D:/My Projects/MyGame/MyGame/Content/Effects/Effect.fx","D:/My Projects/MyGame/MyGame/Content/bin/DesktopGL/Content/Effects/Effect.xnb","EffectProcessor","CompiledEffectContent",1501,2304,0.4421744
 "D:/My Projects/MyGame/MyGame/Content/Fonts/Font.spritefont","D:/My Projects/MyGame/MyGame/Content/bin/DesktopGL/Content/Fonts/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2069,267298,0.2755148
+"D:/My Projects/MyGame/MyGame/Content/Sounds/explosion.wav","D:/My Projects/MyGame/MyGame/Content/bin/DesktopGL/Content/Sounds/explosion.xnb","SoundEffectProcessor","SoundEffectContent",25916,25977,0.5827452
+"D:/My Projects/MyGame/MyGame/Content/Sounds/jump.wav","D:/My Projects/MyGame/MyGame/Content/bin/DesktopGL/Content/Sounds/jump.xnb","SoundEffectProcessor","SoundEffectContent",11244,11305,0.2846882
+"D:/My Projects/MyGame/MyGame/Content/Sounds/laserShoot.wav","D:/My Projects/MyGame/MyGame/Content/bin/DesktopGL/Content/Sounds/laserShoot.xnb","SoundEffectProcessor","SoundEffectContent",5629,5690,0.2910681
+"D:/My Projects/MyGame/MyGame/Content/Sounds/powerUp.wav","D:/My Projects/MyGame/MyGame/Content/bin/DesktopGL/Content/Sounds/powerUp.xnb","SoundEffectProcessor","SoundEffectContent",8185,8246,0.3091245
 "D:/My Projects/MyGame/MyGame/Content/Sprites/tilemap_packed.png","D:/My Projects/MyGame/MyGame/Content/bin/DesktopGL/Content/Sprites/tilemap_packed.xnb","TextureProcessor","Texture2DContent",1414,61525,0.1341052

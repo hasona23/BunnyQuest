@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/My Projects/MyGame/MyGame/Content/Sounds/jump.wav</SourceFile>
+  <SourceTime>2025-05-25T21:38:41.7997024+03:00</SourceTime>
+  <DestFile>D:/My Projects/MyGame/MyGame/Content/bin/DesktopGL/Content/Sounds/jump.xnb</DestFile>
+  <DestTime>2025-05-25T21:42:58.3777251+03:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2024-08-16T20:05:56+03:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2024-08-16T20:05:56+03:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

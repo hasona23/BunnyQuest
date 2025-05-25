@@ -165,6 +165,7 @@ internal class Controller() : Component
         if (InputManager.IsKeyPressed(Keys.Space) && isGround)
         {
             Owner.Vel.Y -= Owner.GetComponent<Movement>().JumpPower;
+            AssetManager.Sounds["Jump"].Play();
         }
         if (InputManager.IsKeyDown(Keys.A))
         {

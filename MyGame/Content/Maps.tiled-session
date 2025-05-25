@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/level2.tmx",
+    "activeFile": "Maps/level5.tmx",
     "expandedProjectPaths": [
         ".",
         "Maps"
@@ -37,6 +37,19 @@
                 "y": 159.75
             }
         },
+        "Maps/Level3.tmx": {
+            "expandedObjectLayers": [
+                2,
+                3,
+                5
+            ],
+            "scale": 1.2611249999999998,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 400.0396471404501,
+                "y": 159.77797601348004
+            }
+        },
         "Maps/level2..tmj": {
             "scale": 2.1018749999999997,
             "selectedLayer": 0,
@@ -58,6 +71,32 @@
                 "y": 187.2137972048766
             }
         },
+        "Maps/level4.tmx": {
+            "expandedObjectLayers": [
+                2,
+                4,
+                3
+            ],
+            "scale": 1.2611249999999998,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 400.0396471404501,
+                "y": 159.77797601348004
+            }
+        },
+        "Maps/level5.tmx": {
+            "expandedObjectLayers": [
+                2,
+                4,
+                3
+            ],
+            "scale": 1.2611249999999998,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 464.268014669442,
+                "y": 239.86519972247004
+            }
+        },
         "Tileset.tsx": {
             "scaleInDock": 1.5,
             "scaleInEditor": 1
@@ -66,7 +105,7 @@
     "last.exportedFilePath": "D:/My Projects/MyGame/MyGame/Content/Maps",
     "last.imagePath": "D:/My Projects/MyGame/MyGame/Content/Sprites",
     "map.fixedSize": true,
-    "map.height": 20,
+    "map.height": 30,
     "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
     "map.lastUsedFormat": "tmx",
     "map.tileHeight": 16,
@@ -75,7 +114,10 @@
     "openFiles": [
         "Maps/Level1.tmx",
         "Tileset.tsx",
-        "Maps/level2.tmx"
+        "Maps/level2.tmx",
+        "Maps/Level3.tmx",
+        "Maps/level4.tmx",
+        "Maps/level5.tmx"
     ],
     "project": "Maps.tiled-project",
     "property.type": "bool",
@@ -83,6 +125,9 @@
         "Maps/Level1.tmx",
         "Tileset.tsx",
         "Maps/level2.tmx",
+        "Maps/Level3.tmx",
+        "Maps/level4.tmx",
+        "Maps/level5.tmx",
         "Maps/level2..tmj",
         "Maps/Level1.tmj"
     ],

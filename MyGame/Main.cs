@@ -24,7 +24,7 @@ namespace MyGame
         private DeathScreen _deathScreen;
         private WinningScreen _winningScreen;
         private World _world;
-        private int _totalLevels = 2;
+        private int _totalLevels;
         private int currentLevel = 2;
         private float _fps = 0;
         public static GameState GameState = GameState.MainMenu;

@@ -6,9 +6,17 @@
   <SourceFiles>
     <File>D:/My Projects/MyGame/MyGame/Content/Effects/Effect.fx</File>
     <File>D:/My Projects/MyGame/MyGame/Content/Fonts/Font.spritefont</File>
+    <File>D:/My Projects/MyGame/MyGame/Content/Sounds/explosion.wav</File>
+    <File>D:/My Projects/MyGame/MyGame/Content/Sounds/jump.wav</File>
+    <File>D:/My Projects/MyGame/MyGame/Content/Sounds/laserShoot.wav</File>
+    <File>D:/My Projects/MyGame/MyGame/Content/Sounds/powerUp.wav</File>
     <File>D:/My Projects/MyGame/MyGame/Content/Sprites/tilemap_packed.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\My Projects\\MyGame\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22427188-3E3C-4B1D-A48E-3C1BADF76915}|MyGame\\MyGame.csproj|d:\\my projects\\mygame\\mygame\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22427188-3E3C-4B1D-A48E-3C1BADF76915}|MyGame\\MyGame.csproj|solutionrelative:mygame\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22427188-3E3C-4B1D-A48E-3C1BADF76915}|MyGame\\MyGame.csproj|d:\\my projects\\mygame\\mygame\\entitysystem\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22427188-3E3C-4B1D-A48E-3C1BADF76915}|MyGame\\MyGame.csproj|solutionrelative:mygame\\entitysystem\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22427188-3E3C-4B1D-A48E-3C1BADF76915}|MyGame\\MyGame.csproj|d:\\my projects\\mygame\\mygame\\entitysystem\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22427188-3E3C-4B1D-A48E-3C1BADF76915}|MyGame\\MyGame.csproj|solutionrelative:mygame\\entitysystem\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22427188-3E3C-4B1D-A48E-3C1BADF76915}|MyGame\\MyGame.csproj|d:\\my projects\\mygame\\mygame\\assetmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22427188-3E3C-4B1D-A48E-3C1BADF76915}|MyGame\\MyGame.csproj|solutionrelative:mygame\\assetmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +35,58 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\My Projects\\MyGame\\MyGame\\Main.cs",
+              "RelativeDocumentMoniker": "MyGame\\Main.cs",
+              "ToolTip": "D:\\My Projects\\MyGame\\MyGame\\Main.cs",
+              "RelativeToolTip": "MyGame\\Main.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T19:10:12.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Component.cs",
+              "DocumentMoniker": "D:\\My Projects\\MyGame\\MyGame\\EntitySystem\\Component.cs",
+              "RelativeDocumentMoniker": "MyGame\\EntitySystem\\Component.cs",
+              "ToolTip": "D:\\My Projects\\MyGame\\MyGame\\EntitySystem\\Component.cs",
+              "RelativeToolTip": "MyGame\\EntitySystem\\Component.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAKcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T18:50:53.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "World.cs",
+              "DocumentMoniker": "D:\\My Projects\\MyGame\\MyGame\\EntitySystem\\World.cs",
+              "RelativeDocumentMoniker": "MyGame\\EntitySystem\\World.cs",
+              "ToolTip": "D:\\My Projects\\MyGame\\MyGame\\EntitySystem\\World.cs",
+              "RelativeToolTip": "MyGame\\EntitySystem\\World.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T18:46:49.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssetManager.cs",
+              "DocumentMoniker": "D:\\My Projects\\MyGame\\MyGame\\AssetManager.cs",
+              "RelativeDocumentMoniker": "MyGame\\AssetManager.cs",
+              "ToolTip": "D:\\My Projects\\MyGame\\MyGame\\AssetManager.cs",
+              "RelativeToolTip": "MyGame\\AssetManager.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABgAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T18:40:33.493Z",
+              "EditorCaption": ""
             }
           ]
         }

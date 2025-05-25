@@ -27,3 +27,8 @@ D:\My Projects\MyGame\MyGame\bin\Debug\net8.0\Content\Sprites\tilemap_packed.xnb
 D:\My Projects\MyGame\MyGame\bin\Debug\net8.0\Content\Fonts\Font.xnb
 D:\My Projects\MyGame\MyGame\bin\Debug\net8.0\Content\Sprites\Font.xnb
 D:\My Projects\MyGame\MyGame\bin\Debug\net8.0\Content\Effects\Effect.xnb
+D:\My Projects\MyGame\MyGame\bin\Debug\net8.0\Content\Sounds\jump.xnb
+D:\My Projects\MyGame\MyGame\bin\Debug\net8.0\Content\Sounds\laserShoot.xnb
+D:\My Projects\MyGame\MyGame\bin\Debug\net8.0\Content\Sounds\powerUp.xnb
+D:\My Projects\MyGame\MyGame\obj\Debug\net8.0\MyGame.sourcelink.json
+D:\My Projects\MyGame\MyGame\bin\Debug\net8.0\Content\Sounds\explosion.xnb
