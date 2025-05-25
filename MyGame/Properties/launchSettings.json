@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "MyGame": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\My Projects\\MyGame\\MyGame",
+      "environmentVariables": {
+        "DEBUG": "TRUE"
+      }
+    }
+  }
+}

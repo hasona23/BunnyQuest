@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/My Projects/MyGame/MyGame/Content/Effects/Effect.fx","D:/My Projects/MyGame/MyGame/Content/bin/DesktopGL/Content/Effects/Effect.xnb","EffectProcessor","CompiledEffectContent",1501,2304,0.4421744
+"D:/My Projects/MyGame/MyGame/Content/Fonts/Font.spritefont","D:/My Projects/MyGame/MyGame/Content/bin/DesktopGL/Content/Fonts/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2069,267298,0.2755148
+"D:/My Projects/MyGame/MyGame/Content/Sprites/tilemap_packed.png","D:/My Projects/MyGame/MyGame/Content/bin/DesktopGL/Content/Sprites/tilemap_packed.xnb","TextureProcessor","Texture2DContent",1414,61525,0.1341052
